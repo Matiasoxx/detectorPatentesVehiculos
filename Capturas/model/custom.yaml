@@ -1,0 +1,13 @@
+train: /content/data/train
+val: /content/data/val
+
+
+# Classes
+names:
+  0: Auto
+  1: Moto
+  2: Patente
+  3: Insignia
+
+# Download script/URL (optional)
+download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco128.zip
